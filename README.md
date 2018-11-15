@@ -21,4 +21,4 @@ Changes:
 - added 3 new skins: Hexa Apps, Hexa documents, Hexa Documents Linear.
 
 *Screenshots:*  
-![Hexa 1](ionescuig.github.com/rainmeter-skins/images/Hexa1.png)
+![](https://github.com/ionescuig/rainmeter-skins/blob/master/images/Hexa1.png)
