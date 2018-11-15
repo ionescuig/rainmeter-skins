@@ -22,3 +22,8 @@ Changes:
 
 *Screenshots:*  
 ![](https://github.com/ionescuig/rainmeter-skins/blob/master/images/Hexa1.png)
+![](https://github.com/ionescuig/rainmeter-skins/blob/master/images/Hexa2.png)
+![](https://github.com/ionescuig/rainmeter-skins/blob/master/images/Hexa3.png)
+![](https://github.com/ionescuig/rainmeter-skins/blob/master/images/Hexa4.png)
+![](https://github.com/ionescuig/rainmeter-skins/blob/master/images/Hexa5.png)
+![](https://github.com/ionescuig/rainmeter-skins/blob/master/images/Hexa6.png)
