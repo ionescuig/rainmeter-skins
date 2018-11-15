@@ -19,3 +19,6 @@ This is a modified skin: [Hexa Core 2.0 by musthaf9](https://www.deviantart.com/
 Changes:
 - modified the core
 - added 3 new skins: Hexa Apps, Hexa documents, Hexa Documents Linear.
+
+*Screenshots:*  
+![Hexa 1](ionescuig.github.com/rainmeter-skins/images/Hexa1.png)
